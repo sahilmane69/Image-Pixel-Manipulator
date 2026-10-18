@@ -19,13 +19,13 @@ A Python-based image processing project that combines pixel-level image manipula
 
 The model classified this uploaded landscape image as **FAKE**, with a displayed confidence score of **99.60%**.
 
-![Example prediction classified as FAKE](assets/fake-prediction.png)
+![Example prediction classified as FAKE](./fake-prediction.png)
 
 ### Predicted: REAL
 
 The model classified this uploaded image as **REAL**, with a displayed confidence score of **93.48%**.
 
-![Example prediction classified as REAL](assets/real-prediction.png)
+![Example prediction classified as REAL](./real-prediction.png)
 
 *These screenshots show example outputs from a run of the model. They do not establish the actual origin of either image.*
 
